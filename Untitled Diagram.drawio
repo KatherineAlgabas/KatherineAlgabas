@@ -1,1 +1,376 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T21:57:15.699Z" agent="5.0 (Windows)" etag="Hal2TjrlPfzWmaxuJHyz" version="17.4.0" type="github"><diagram id="t4aLn5HD8HQoceZKMTkB" name="Page-1">dZHBDoIwDIafZvfB1HBH1AsnDp4XVtmSQcmYAX16IRRwQU/rvv/vurZMpPVwdbLVOSqwLOZqYOLM4jiKeDIeE3nN5HAiUDmjyLSBwryBICf6NAq6wOgRrTdtCEtsGih9wKRz2Ie2B9qwaisr2IGilHZP70Z5vfbFN+EGptJUOjmSUMvFTKDTUmH/hUTGROoQ/RzVQwp2Gt4ylznv8kddP+ag8T8SxmB7e7wEGxLZBw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-13T03:33:12.635Z" agent="5.0 (Windows)" etag="IXsBJugKfurnodhRMG-V" version="17.4.0" type="github">
+  <diagram id="t4aLn5HD8HQoceZKMTkB" name="Page-1">
+    <mxGraphModel dx="2805" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1a6wNRpnpff44bMsGOr5-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/jpeg,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;" vertex="1" parent="1">
+          <mxGeometry x="6.880000000000003" y="40" width="146.25" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-2" target="1a6wNRpnpff44bMsGOr5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-2" target="1a6wNRpnpff44bMsGOr5-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-2" target="1a6wNRpnpff44bMsGOr5-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-2" target="1a6wNRpnpff44bMsGOr5-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-2" target="1a6wNRpnpff44bMsGOr5-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Sobre la lectura&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Estanislao Zuleta&lt;/b&gt;&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-5" target="1a6wNRpnpff44bMsGOr5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Autor: Estanislao Zuleta&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-12" value="&lt;b&gt;Nacido en 1935 (Medellín, Colombia)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Filósofo, escritor y pedagogo.&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="39.99999999999999" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-19" value="Dejó tratados acerca del mundo contemporáneo." style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-30" target="1a6wNRpnpff44bMsGOr5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-30" target="1a6wNRpnpff44bMsGOr5-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-30" target="1a6wNRpnpff44bMsGOr5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-30" value="Libros de buena lectura y difíciles de comprender según Zuleta." style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;verticalAlign=bottom;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="-60.00000000000001" y="450" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-32" value="El capital- Karl Marx" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;verticalAlign=bottom;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-34" value="La Metamorfosis- Frank Kafka." style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;verticalAlign=bottom;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="130" y="425" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-36" value="El Quijote de la Mancha- Miguel de Cervantes." style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;verticalAlign=bottom;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-38" target="1a6wNRpnpff44bMsGOr5-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-38" target="1a6wNRpnpff44bMsGOr5-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-38" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Proposiciones según Nietzche&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="460" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-40" target="1a6wNRpnpff44bMsGOr5-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-40" target="1a6wNRpnpff44bMsGOr5-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-40" value="&lt;b&gt;Algunos texto de Nietzche donde la comprensión es lo vital: &lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Times New Roman;fontSize=12;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-50" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontFamily=Times New Roman;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="1a6wNRpnpff44bMsGOr5-40" parent="1" source="1a6wNRpnpff44bMsGOr5-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="77" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-42" target="1a6wNRpnpff44bMsGOr5-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-42" value="&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;Genealogía de la moral (prólogo)&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;Zaratrusa (Cap.&quot;Del leer y el escribir)&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;&quot;Schopenhauer educador&quot;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;&quot;Sobre el porvenir de nuestros institutos de enseñanza&quot;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Times New Roman;fontSize=12;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="710" y="20" width="356" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2017/09/06/5f15f014a167a.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="540" width="76.16" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imagessl5.casadellibro.com/a/l/t7/45/9788466236645.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-19.08" y="640" width="99.08" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/71Lc-CWrh1L.jpg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="414.94" width="76" height="125.06" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-50" target="1a6wNRpnpff44bMsGOr5-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-50" value="&lt;b&gt;Estilo de arte provocativo.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-52" target="1a6wNRpnpff44bMsGOr5-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-52" value="&lt;b&gt;Aprender a escuchar la factura comercial del pensamiento&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-54" value="&lt;b&gt;Descifrar e interpretar/ Detenerse en el detalle desapercibido.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-170" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-56" value="&lt;b&gt;Libera la escritura de toda preocupación&amp;nbsp; efectista, periodística (es decir, de toda aspiración al gran público)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-325" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-64" target="1a6wNRpnpff44bMsGOr5-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-64" target="1a6wNRpnpff44bMsGOr5-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-64" value="&lt;b&gt;El lector, según Nietzche requiere que se separe por completo de lo que se conoce como el hombre moderno: Separado del afán de asimilar rápido.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-240" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.recursosyhabilidades.com/cmsAdmin/uploads/o_1c8vocpbo1tgaokbha81frh1sm9a.png;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-40" width="220" height="157.38" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-67" value="&lt;b&gt;El libro de Zaratustra se convierte en una teoría del pensamiento.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Times New Roman;fontSize=12;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="10" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-69" value="&lt;b&gt;&quot;Existe la ilusión de haber leído, cuando todavía no se ha interpretado el texto&quot; Según Nietzche.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Times New Roman;fontSize=12;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="805" y="-120" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-71" target="1a6wNRpnpff44bMsGOr5-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-71" target="1a6wNRpnpff44bMsGOr5-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-71" target="1a6wNRpnpff44bMsGOr5-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-71" value="&lt;b&gt;El pensamiento filosófico funciona bajo los siguientes dogmas según Nietzche:&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FF6666;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-330" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-73" target="1a6wNRpnpff44bMsGOr5-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-73" value="&lt;b&gt;Capacidad de Admirar (ideas, trabajo, labor)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#B5739D;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="-330" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-75" target="1a6wNRpnpff44bMsGOr5-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-75" target="1a6wNRpnpff44bMsGOr5-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-75" value="&lt;b&gt;Capacidad de oponerse. (Crítica, rebelión)&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#B5739D;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="-250" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-77" target="1a6wNRpnpff44bMsGOr5-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-77" target="1a6wNRpnpff44bMsGOr5-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-77" value="&lt;b&gt;Capacidad de Crear (no oposiciones)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#B5739D;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="-190" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-79" value="&lt;b&gt;El espíritu se convierte en camello.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFB570;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-330" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-81" value="&lt;b&gt;El camello se convierete en León.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFB570;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="-270" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-83" value="&lt;b&gt;El León se convierte en niño.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFB570;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-190" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-86" value="&lt;b&gt;Si estas no se cumplen es igual a un Anarquismo vacío.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFD966;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-440" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-88" target="1a6wNRpnpff44bMsGOr5-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-88" target="1a6wNRpnpff44bMsGOr5-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-88" target="1a6wNRpnpff44bMsGOr5-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-88" target="1a6wNRpnpff44bMsGOr5-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-88" value="&lt;b&gt;Descifrar el código&lt;/b&gt;." style="whiteSpace=wrap;html=1;fillColor=#FF3399;" vertex="1" parent="1">
+          <mxGeometry x="730" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-90" target="1a6wNRpnpff44bMsGOr5-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-90" value="&lt;b&gt;Lecturas que imponen un código.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-92" value="&lt;b&gt;La lectura requiere la interpretación en el sentido fuerte&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="930" y="160" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-94" target="1a6wNRpnpff44bMsGOr5-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-94" value="La lectura debe ser lenta, cuidadosa, &quot;rumiante&quot;." style="whiteSpace=wrap;html=1;fillColor=#97D077;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-96" target="1a6wNRpnpff44bMsGOr5-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-96" target="1a6wNRpnpff44bMsGOr5-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-96" value="Leer no es recibir, consumir, adquirir, leer es trabajar." style="whiteSpace=wrap;html=1;fillColor=#97D077;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-98" value="Descifrar los códigos del lenguaje interior de la lectura." style="whiteSpace=wrap;html=1;fillColor=#99FFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="280" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-100" target="1a6wNRpnpff44bMsGOr5-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-100" value="Voluntad de dominio." style="whiteSpace=wrap;html=1;fillColor=#97D077;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-103" value="Fuerza unificadora de ordenar e interpretar ideas determinados anteriormente por otra dominación." style="whiteSpace=wrap;html=1;fillColor=#2CC7C2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="350" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-105" target="1a6wNRpnpff44bMsGOr5-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-105" target="1a6wNRpnpff44bMsGOr5-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-105" value="&lt;b&gt;Dentro de estas lecturas, si no se logra dr una detreminada asignación a cada una de las manifestaciones del autor, no coge nada.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="90" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-107" target="1a6wNRpnpff44bMsGOr5-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-107" value="&lt;b&gt;Si tomamos el leer como deber y no como una fiesta de conocimiento, no lo podremos conocer.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="170" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-109" value="&lt;b&gt;Nietzche en su pensamiento se basa en querer romper el deber del saber, y del lado de la diversión, su olvido. &lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="240" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-111" value="&lt;b&gt;Interpretar: Producir código que el texto impone y no creer que de antemano tenemos un código común.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="90" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-113" value="&lt;b&gt;Aprender a pensar.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FF3399;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-115" target="1a6wNRpnpff44bMsGOr5-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-115" target="1a6wNRpnpff44bMsGOr5-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-115" value="&lt;b&gt;Aprender a Leer. &lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-117" target="1a6wNRpnpff44bMsGOr5-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-117" value="&lt;b&gt;¿Cuál debería de ser una buena perpesctiva para leer?&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-119" target="1a6wNRpnpff44bMsGOr5-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-119" value="&lt;b&gt;NO es necesario tener elementos previos para descifrar un texto, es necesario interpretar.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-121" target="1a6wNRpnpff44bMsGOr5-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-121" value="&lt;b&gt;NO hay obras faciles&quot; No hay autores fáciles&quot; Solo lectores fáciles&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-123" target="1a6wNRpnpff44bMsGOr5-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-123" value="&lt;b&gt;No buscar la escalera de ideologías para aprender a interpretar: Siempre fundamentar un código a partir del texto.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-125" target="1a6wNRpnpff44bMsGOr5-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-125" value="&lt;b&gt;Habitar en una obra o texto a lo largo de su desarrollo.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-127" value="&lt;b&gt;La escritra no tiene recpetor controlable, porque su receptor (el lector) es virtual.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="960" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-129" target="1a6wNRpnpff44bMsGOr5-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-129" value="&lt;b&gt;¿Cómo mantener los dos extremos de esta cadena en la que se nos propone&lt;br&gt;que no se lee sino lo que ya se sabe y que para leer es preciso ser un aventurero y&lt;br&gt;un descubridor nato?&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="525" width="200" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-132" target="1a6wNRpnpff44bMsGOr5-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-132" value="&lt;b&gt;&quot;el ya saber&quot; proviene desde lo que tenemos acceso a traves de la vivencia.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="620" y="770" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-134" target="1a6wNRpnpff44bMsGOr5-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-134" value="&lt;b&gt;El lector que Nietzsche reclama no es solamente cuidadoso,&lt;br&gt;“rumiante”, capaz de interpretar.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="620" y="870" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-136" value="&lt;b&gt;el texto lo&lt;br&gt;afecte en su ser mismo, hable de aquello que pugna por hacerse reconocer aún a&lt;br&gt;riesgo de transformarle, que teme morir y nacer en su lectura&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="595" y="980" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-138" target="1a6wNRpnpff44bMsGOr5-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-138" value="&lt;b&gt;Toda perspectiva alude a lo que uno busca, se convierte en nuestro lenguaje.&lt;br&gt;Aspiramos a que el texto diga algo sobre lo que buscamos.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="870" y="410" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-140" target="1a6wNRpnpff44bMsGOr5-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-140" value="&lt;b&gt;Salir de la idea de la lectura como consumo.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="410" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-140" target="1a6wNRpnpff44bMsGOr5-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-143" target="1a6wNRpnpff44bMsGOr5-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-143" value="&lt;b&gt;Leer a la luz de un problema es, pues, leer en un campo de batalla, en el campo&lt;br&gt;abierto por una escritura, por una investigación.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="490" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-145" target="1a6wNRpnpff44bMsGOr5-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="1a6wNRpnpff44bMsGOr5-145" target="1a6wNRpnpff44bMsGOr5-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-145" value="&lt;b&gt;Ante la lectura, si se hace una lectura seria, se tiene que asumir una posición&lt;br&gt;similar a la forma de escuchar que propuso Freud.&lt;br&gt;Evitar el modelo de la escalerita (de lo fácil a lo complejo)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="600" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-147" value="&lt;b&gt;¿Dónde hay algo simple? Este modelo no produce una lectura obsesiva&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="600" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-149" value="&lt;b&gt;Leer sin incorporar ese conocimiento, leer por cumplir, pasa lo peor que pudiese pasar, olvidar.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="730" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1a6wNRpnpff44bMsGOr5-152" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://anylang.net/sites/default/files/covers/also-sprach-zarathustra-ein-buch-fur-alle-und-keinen.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1496.5" y="-190" width="177" height="257.82" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
